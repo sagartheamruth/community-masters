@@ -11,3 +11,7 @@
 9. [REFERRALS](https://docs.google.com/document/d/1tvVN4cFOV4rfxTEfKBkY5GZ3ElgVuPptIzD5wuwHwH8/edit#)
 10. [Does Size Matter](https://docs.google.com/document/d/1nEYmz7Onw3RgoRqtI_xeX0VXiV7pR6lHeknb1PJRnQg/edit#)
 11. [Community Narrative](https://docs.google.com/document/d/1o1XTPpaLOOVqTNm7dmQwDWck_BIQB7JJIy89xiv4Yp8/edit?usp=sharing)
+12. [Community Design](https://docs.google.com/document/d/1eMejFlcYPOH_m6dyDykhaOU2y0ISsHmNPLncnjoKeLg/edit?usp=sharing)
+13. [ONBOARDING](https://docs.google.com/document/d/179cE6FoFmfLndQsG1vxC_NoJ8CW6nvIPCRksD1mf7FI/edit)
+14. [FOUNDING MEMBERS](https://docs.google.com/document/d/1Gcxy5GDo-Le_RA-CY5_zg57bFIzl1Ncwn-CijgRjWHY/edit?usp=sharing)
+15. 
