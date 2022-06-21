@@ -32,6 +32,13 @@
 30. [FIREFIGHTING](https://docs.google.com/document/d/1oxT0GNsSWBnTbDldURS5SncG5QrHephpnaUYFu6se7Q/edit?usp=sharing)
 31. [BREAKOUT ROOMS](https://docs.google.com/document/d/1CKnEU2LQGdmPTlfg---LBmrVkKs4rMARiUvKjFIS_fE/edit?usp=sharing)
 32. [COMMUNITY NOTIFICATIONS](https://docs.google.com/document/d/1zTk8d2H4mGuZj9I2QxqQXRccoM1zup6IkLyjon0s45w/edit?usp=sharing)
-33. []()
+33. [1:1 ENGAGEMENT](https://docs.google.com/document/d/12mxSxDpIgYU8MjPbAiZCZ4wMVjN4uc0RgLtypp9PK2Q/edit?usp=sharing)
+34. [SETTING INCENTIVES](https://docs.google.com/document/d/1U5tWx_6ihUxDKj3oUUY3GRn6yIky0eixLLn2QsNGsSw/edit?usp=sharing)
+35. [THE STORY OF OUR FIRs](https://docs.google.com/document/d/1a3lxGfzmuB9ngdIO7OhVHq5frpDi7C5CCNG1yUE5kBI/edit?usp=sharing)
+36. [PICKING MODERATORS](https://docs.google.com/document/d/1bPBTdninQ9_a_7TMVSqKj4N2PhYSzrq7oy0H-3sp7mM/edit?usp=sharing)
+37. [MODERATOR STANDUPS](https://docs.google.com/document/d/1tPc3NjMAPNHLvLCkzuCXB1VZ1w4BPEatfIxPYi9eG48/edit?usp=sharing)
+38. [DEALING WITH CRISIS & THE ESCALATION MATRIX](https://docs.google.com/document/d/1JV2VeDIwbllZr4XaUdCmV4yoDtPIUVbpicZwj0q9NRM/edit?usp=sharing)
+39. [ANONYMITY & OTPS/ VERIFICATION CODE](https://docs.google.com/document/d/1ZkoVY-yK4RQ1CBqEBw3Yy3OSQrzZZC18FA505yKSvXc/edit?usp=sharing)
+40. 
 
 
