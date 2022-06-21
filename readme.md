@@ -28,6 +28,7 @@ _____
 16. [Your First 10 Founding Members](https://docs.google.com/document/d/1s-Imk1iVUg8V8wH5ziieT4HcYbaxInjFuPhqLXRfytE/edit?usp=sharing)
 17. [Your First 100 Members](https://docs.google.com/document/d/1udTqfR_5Davvu_JgXqLAAKtIPb4g_tzNwpicOJGyigE/edit?usp=sharing)
 18. [OWNING VS RENTING](https://docs.google.com/document/d/1R5kjImBT5LXF1SKTp49efdWWBeU4b5H9be_ZWu4JI-k/edit?usp=sharing)
+-   [SWITCHING COSTS](https://docs.google.com/document/d/1H1ZRh0y56JZwUE4I0QIKztXJJUYqL6zi2bTW5ne0O14/edit?usp=sharing)
 19. [WEB Vs Mobile](https://docs.google.com/document/d/1UHkNU8lWOuEzu6DRqHO0gx1M1zstywTFIhEcbSX2EN4/edit?usp=sharing)
 20. [BAIT](https://docs.google.com/document/d/1qIewxrZMpVHI6rXEG6_h-77yH5JbDdfsMfkb808y56k/edit?usp=sharing)
 21. [SCENES MODEL](https://docs.google.com/document/d/1FewTUz232ubUOWeJUQrnXzRUl82VPiqdqnpeyhttxJ4/edit?usp=sharing)
@@ -68,5 +69,19 @@ _____
 ### VII MONETIZATION
 
 46. [SELLING PRIVATE ACCESS](https://docs.google.com/document/d/1WKLjLLaTILwUnWB-UUUUxKZ0oal9ZswAwVqoJKHjDNo/edit?usp=sharing)
+47. [PROMOTED POSTS](https://docs.google.com/document/d/1enKhgIP0hjyNAubLOlD7O9nunOlMOTSzMJuWMe1jfX0/edit?usp=sharing)
+48. [AFFILIATE MARKETING](https://docs.google.com/document/d/14aotxweQrvwFCN-P2QT5uKicrlKfEXg0kx5wBNxp_BY/edit?usp=sharing)
+49. [SELLING MERCHANDISE](https://docs.google.com/document/d/1KIWOZdCGq8NJkI982mBd7JpG4UT_8uKWsRCP_TKNUmo/edit?usp=sharing)
+50. [ORGANIZE EVENTS](https://docs.google.com/document/d/1erfljbt5K8BAV_CC7UbMU-BTfPQVcj6lqOvrH-PrDTc/edit?usp=sharing)
+51. [NFTs](https://docs.google.com/document/d/1t5EVaiqF5lfFzgubqWLTtrtGPrDtHFhY8jDqrM1Hk2w/edit?usp=sharing)
+52. [DONATION/TIPPING](https://docs.google.com/document/d/1Uh_cWwxWnGyKXwWHhrvSJLR-DeE4beQCXQRYsZGx_10/edit?usp=sharing)
+53. [JOB BOARDS/CONNECTING PEOPLE](https://docs.google.com/document/d/1BG5f-OzKM562OKl3oWB2LJXZyeFCqSBYno_KAhU99aw/edit?usp=sharing)
+54. [WHAT % WILL PLAY](https://docs.google.com/document/d/1Ja9AQfEy43HSoGCsybIqJompdK21qNBxHeDyDa4wXJQ/edit?usp=sharing)
 
+### VIII GROWTH
+
+55. [SNEAKY VAMPIRE SYNDICATE STORY —HOW DO NFT PROJECTS GROW SO RAPIDLY?]()
+
+
+till 56
 
