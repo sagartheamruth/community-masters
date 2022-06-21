@@ -1,14 +1,24 @@
 ## Link to all docs:
+_____
+
+
+### I WHAT’S OUR STORY?
 
 1. [Our Story](https://docs.google.com/document/d/1a2yRM-7-gCl4BK8wuUXCarX0AFurhcXPZR5IXF1GZg8/edit?usp=sharing)
 2. [Why Do Humans Need a Community](https://docs.google.com/document/d/1ir_eUpwjhwaMF1a-f7SG8aj4ACC-zJDgyMI85NPb-FM/edit?usp=sharing)
 3. [WHY IS COMMUNITY NEEDED FOR BUSINESS?](https://docs.google.com/document/d/1PIZTNZVvqtLXpUkyIZdkl9sFxWx10tNZFijnjkeamNk/edit?usp=sharing)
 4. [ADVERTISING VS COMMUNITY](https://docs.google.com/document/d/11B8EmNIRHCadQtJxC5TwHlHCkLpphB5nVYqoJYSC-Lw/edit?usp=sharing)
+
+### II THE COMMUNITY ENGINE
+
 5. [AUDIENCE VS COMMUNNITY](https://docs.google.com/document/d/1iMaI0TlIU4nEgtDHf7x9cEy1W-mAVKzX8_Sz2fjS_M8/edit?usp=sharing)
 6. [BUILDING AN AUDIENCE: THE YOUTUBE ALGORITHM](https://docs.google.com/document/d/1KTTbw5bbyfAzVvFI2Uf_RanYBTf9lrgyd_f6KWzYC88/edit?usp=sharing)
 7. [THE SCENES COMMUNITY ENGINE](https://docs.google.com/document/d/1h-kG2VrFz_257X60d60eTp_j0J58rxzuKnnmExyGnnI/edit?usp=sharing)
 8. [CMF](https://docs.google.com/document/d/1cqyiXrrgLExIpCzzywaS6cgIa655ZqK0yvggH5Mm51M/edit)
 9. [REFERRALS](https://docs.google.com/document/d/1tvVN4cFOV4rfxTEfKBkY5GZ3ElgVuPptIzD5wuwHwH8/edit#)
+
+### III GETTING STARTED
+
 10. [Does Size Matter](https://docs.google.com/document/d/1nEYmz7Onw3RgoRqtI_xeX0VXiV7pR6lHeknb1PJRnQg/edit#)
 11. [Community Narrative](https://docs.google.com/document/d/1o1XTPpaLOOVqTNm7dmQwDWck_BIQB7JJIy89xiv4Yp8/edit?usp=sharing)
 12. [Community Design](https://docs.google.com/document/d/1eMejFlcYPOH_m6dyDykhaOU2y0ISsHmNPLncnjoKeLg/edit?usp=sharing)
@@ -20,7 +30,10 @@
 18. [OWNING VS RENTING](https://docs.google.com/document/d/1R5kjImBT5LXF1SKTp49efdWWBeU4b5H9be_ZWu4JI-k/edit?usp=sharing)
 19. [WEB Vs Mobile](https://docs.google.com/document/d/1UHkNU8lWOuEzu6DRqHO0gx1M1zstywTFIhEcbSX2EN4/edit?usp=sharing)
 20. [BAIT](https://docs.google.com/document/d/1qIewxrZMpVHI6rXEG6_h-77yH5JbDdfsMfkb808y56k/edit?usp=sharing)
-21. [SCENE MODEL](https://docs.google.com/document/d/1FewTUz232ubUOWeJUQrnXzRUl82VPiqdqnpeyhttxJ4/edit?usp=sharing)
+21. [SCENES MODEL](https://docs.google.com/document/d/1FewTUz232ubUOWeJUQrnXzRUl82VPiqdqnpeyhttxJ4/edit?usp=sharing)
+
+### IV COMMUNITY ENGAGEMENT 
+
 22. [THE NOTION STORY](https://docs.google.com/document/d/1V6ZNrzwZNZEgqqkV0gdCizuHxb-ROCt6bcpJ60okIMA/edit?usp=sharing)
 23. [DESIGNING COMMUNITY KPIs](https://docs.google.com/document/d/1_zpFeMr2qmO7kDYcOJd_xE3MbA_2BDmB4hTIX1gBrjQ/edit?usp=sharing)
 24. [THE FIRST GOAL: SPARK ENOUGH OF A NETWORK EFFECT](https://docs.google.com/document/d/1tKhRrt0Xk8XOPnG8yuHoh-CgyB99pCT6RQz479u4MJE/edit?usp=sharing)
@@ -34,11 +47,26 @@
 32. [COMMUNITY NOTIFICATIONS](https://docs.google.com/document/d/1zTk8d2H4mGuZj9I2QxqQXRccoM1zup6IkLyjon0s45w/edit?usp=sharing)
 33. [1:1 ENGAGEMENT](https://docs.google.com/document/d/12mxSxDpIgYU8MjPbAiZCZ4wMVjN4uc0RgLtypp9PK2Q/edit?usp=sharing)
 34. [SETTING INCENTIVES](https://docs.google.com/document/d/1U5tWx_6ihUxDKj3oUUY3GRn6yIky0eixLLn2QsNGsSw/edit?usp=sharing)
+
+### V MODERATION 
+
 35. [THE STORY OF OUR FIRs](https://docs.google.com/document/d/1a3lxGfzmuB9ngdIO7OhVHq5frpDi7C5CCNG1yUE5kBI/edit?usp=sharing)
 36. [PICKING MODERATORS](https://docs.google.com/document/d/1bPBTdninQ9_a_7TMVSqKj4N2PhYSzrq7oy0H-3sp7mM/edit?usp=sharing)
 37. [MODERATOR STANDUPS](https://docs.google.com/document/d/1tPc3NjMAPNHLvLCkzuCXB1VZ1w4BPEatfIxPYi9eG48/edit?usp=sharing)
 38. [DEALING WITH CRISIS & THE ESCALATION MATRIX](https://docs.google.com/document/d/1JV2VeDIwbllZr4XaUdCmV4yoDtPIUVbpicZwj0q9NRM/edit?usp=sharing)
 39. [ANONYMITY & OTPS/ VERIFICATION CODE](https://docs.google.com/document/d/1ZkoVY-yK4RQ1CBqEBw3Yy3OSQrzZZC18FA505yKSvXc/edit?usp=sharing)
-40. 
+
+### VI STATUS
+
+40. [DJ ROLE STORY](https://docs.google.com/document/d/1KUmQhO5QcbHgIoKPRwiTh5IMOuOSeCHa6IdpXKC0KHU/edit?usp=sharing)
+41. [ALLEVIATING LONELINESS](https://docs.google.com/document/d/1KcxLYf_Duu9aVMuh6x0zzwpkdg_FF87TO0MZRQ_TVFI/edit?usp=sharing)
+42. [GAMIFICATION](https://docs.google.com/document/d/1Iwx0drcSrLFyVUHI3V2IVw3_fBifDQ4javWZIA1SHNw/edit?usp=sharing)
+43. [WHY HIERARCHY IS IMPORTANT](https://docs.google.com/document/d/1_9k8vFqtEqRLIFUQP3A4GI3QBFqP2gtYMBOAThovDJA/edit?usp=sharing)
+44. [TYPES OF COMMUNITY MEMBERS & HOUSES OF POWER](https://docs.google.com/document/d/1HEt_554RIOBZqD1-fDAx8ZC-kksbvN8mukbpsnfi_oM/edit?usp=sharing)
+45. [FORKING](https://docs.google.com/document/d/1b2PZfex-1bOeVMfNKpvVHNZZoleLh-VQATnSePTzz7Y/edit?usp=sharing)
+
+### VII MONETIZATION
+
+46. [SELLING PRIVATE ACCESS](https://docs.google.com/document/d/1WKLjLLaTILwUnWB-UUUUxKZ0oal9ZswAwVqoJKHjDNo/edit?usp=sharing)
 
 
