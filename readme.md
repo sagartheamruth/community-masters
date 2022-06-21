@@ -21,4 +21,17 @@
 19. [WEB Vs Mobile](https://docs.google.com/document/d/1UHkNU8lWOuEzu6DRqHO0gx1M1zstywTFIhEcbSX2EN4/edit?usp=sharing)
 20. [BAIT](https://docs.google.com/document/d/1qIewxrZMpVHI6rXEG6_h-77yH5JbDdfsMfkb808y56k/edit?usp=sharing)
 21. [SCENE MODEL](https://docs.google.com/document/d/1FewTUz232ubUOWeJUQrnXzRUl82VPiqdqnpeyhttxJ4/edit?usp=sharing)
+22. [THE NOTION STORY](https://docs.google.com/document/d/1V6ZNrzwZNZEgqqkV0gdCizuHxb-ROCt6bcpJ60okIMA/edit?usp=sharing)
+23. [DESIGNING COMMUNITY KPIs](https://docs.google.com/document/d/1_zpFeMr2qmO7kDYcOJd_xE3MbA_2BDmB4hTIX1gBrjQ/edit?usp=sharing)
+24. [THE FIRST GOAL: SPARK ENOUGH OF A NETWORK EFFECT](https://docs.google.com/document/d/1tKhRrt0Xk8XOPnG8yuHoh-CgyB99pCT6RQz479u4MJE/edit?usp=sharing)
+25. [EVENTS: COMMUNITY GLUE](https://docs.google.com/document/d/1Ls9eKuZBQidntvizD64RAFSYI_zPi4Wk_TjCmtu4QXU/edit?usp=sharing)
+26. [VOICE ROOMS](https://docs.google.com/document/d/1lwofQHkB6vKWg8sEKm2xgXdO5EqYy7P4HjoLD2KyJr0/edit?usp=sharing)
+27. [CALENDARS & SCHEDULING](https://docs.google.com/document/d/13zrn9tKXq6k0bIftK1QM6m5LA8tJz-H9J-jx-fMSpQM/edit?usp=sharing)
+28. [TO FORUM OR NOT TO FORUM](https://docs.google.com/document/d/1ywdEHg2r_uF_0uiAFn1dUT6CpEi5O_i2xjDVQ545siA/edit?usp=sharing)
+29. [MANAGING A CHAT](https://docs.google.com/document/d/1M73UQshaQtSg0aDGyIcvRpD0zVXqn9IJcsbjJDB7M6g/edit?usp=sharing)
+30. [FIREFIGHTING](https://docs.google.com/document/d/1oxT0GNsSWBnTbDldURS5SncG5QrHephpnaUYFu6se7Q/edit?usp=sharing)
+31. [BREAKOUT ROOMS](https://docs.google.com/document/d/1CKnEU2LQGdmPTlfg---LBmrVkKs4rMARiUvKjFIS_fE/edit?usp=sharing)
+32. [COMMUNITY NOTIFICATIONS](https://docs.google.com/document/d/1zTk8d2H4mGuZj9I2QxqQXRccoM1zup6IkLyjon0s45w/edit?usp=sharing)
+33. []()
+
 
