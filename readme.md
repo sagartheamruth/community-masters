@@ -80,8 +80,9 @@ _____
 
 ### VIII GROWTH
 
-55. [SNEAKY VAMPIRE SYNDICATE STORY —HOW DO NFT PROJECTS GROW SO RAPIDLY?]()
+55. [SNEAKY VAMPIRE SYNDICATE STORY —HOW DO NFT PROJECTS GROW SO RAPIDLY?](https://docs.google.com/document/d/1291bvWMcda51PQfupkxRODIbdZ1Teiy6Yr3ufQKaCIs/edit?usp=sharing)
+56. []()
 
 
-till 56
+
 
